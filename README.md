@@ -4,11 +4,11 @@
 <!--About web application -->
 ## What it is?
 
-### _Power Room_ is a future gym for people interested in conquering their body goals with a minimalist yet elegant design.
+ _Power Room_ is a future gym for people interested in conquering their body goals with a minimalist yet elegant design.
 
 ## What it does?
 
-### It showcases my design skills and a bit of JavaScript skills for the functionality of the website.
+ It showcases my design skills and a bit of JavaScript skills for the functionality of the website.
 
 ***
 <!--Technolgies -->
